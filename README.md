@@ -1,4 +1,4 @@
-# EasySploit
+# EasySploit (악성코드를 쉽게 만들 수 있음)
 EasySploit v3.1 (Linux) - Metasploit automation (EASIER and FASTER than EVER) 
 
 # Disclaimer:
